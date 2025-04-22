@@ -5,3 +5,4 @@ select
 
 from {{ source('jaffle_shop', 'customers') }}
 -- from `dbt-tutorial`.jaffle_shop.customers
+-- 
